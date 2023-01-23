@@ -1,0 +1,357 @@
+.header{
+   width: 100%;
+   height: 50px;
+   background-color: #fff;
+   padding-left: 103px;
+}
+body{
+    margin: 0;
+    font-family: HM Sans Regular,HMSansHebrew-Regular,ヒラギノ角ゴ Pro W3,Hiragino Kaku Gothic Pro,Osaka,メイリオ,Meiryo,ＭＳ Ｐゴシック,MS PGothic,sans-serif;
+    font-weight: calc(1000);
+    
+}
+
+.left-container{
+    display: flex;
+    width: 32%;
+    margin: 20px;
+    height: 23px;
+    float: left;
+    justify-content: space-around;
+}
+
+.customer-service{
+    float: left;
+    font-size: 13px;
+    padding-left: 20px;
+}
+.news-letter{
+    float: left;
+    padding-left: 5px;
+    font-size: 13px;
+}
+.find-a-store{
+    width: 122px;
+    float: left;
+    font-size: 13px;
+}
+.dots{
+    width: 200px;
+    height: 50px;
+    padding-top: 1px;
+    font-size: 15px;
+    margin: 10px;
+}
+.middle-container{
+    width: 16%;
+    line-height: 1;
+    float: left;
+    box-sizing: inherit;
+    padding-top: 7px;
+    padding-left: 27px;
+
+}
+
+.image{
+    width: 58px;
+    padding-top: 13px;
+    padding-left: 26px;
+}
+    
+.right-container{
+    display: flex;
+    width: 29%;
+    float: left;
+    height: 47px;
+    padding-top: 12px;
+    padding-left: 27px;
+
+}
+.logo-image{
+    width: 18px;
+    height: 18px;
+    padding-left: 12px;
+    padding-top: 17px;
+}
+.sign-in-logo{
+    width: 32px;
+    float: left;
+}
+.sign-in-text{
+    width: 53px;
+    height: 37px;
+    float: left;
+}
+.S-text{
+    font-size: 12px;
+    padding-left: 6px;
+    padding-top: 10px;
+}
+.logo-image{
+    width: 18px;
+    height: 18px;
+    padding-left: 12px;
+    padding-top: 17px;
+}
+.heart-logo{
+    width: 33px;
+    height: 41px;
+    float: left;
+}
+.heart-image{
+    width: 25px;
+    padding-left: 4px;
+    padding-top: 13px;
+}
+.favourite-text{
+    float: left;
+    
+}
+.F-text{
+    font-size: 12px;
+    padding-top: 10px;
+}
+.shopping-logo{
+    width: 51px;
+    float: left;
+}
+.shop-image{
+    width: 31px;
+    padding-top: 8px;
+    padding-left: 20px;
+}
+.shop-text{
+    font-size: 12px;
+    padding-top: 10px;
+    width: 98px;
+
+}
+.shopping-text{
+    float: left;
+    width: 86px;
+}
+.container-2{
+    padding-left: 77px;
+}
+.container-2 ul{
+display: flex;
+justify-content: space-around;
+width: 607px;
+    padding-left: 193px;
+    height: 41px;
+    padding-top: 30px;
+    list-style-type: none;
+    font-weight: calc(100);
+    
+}
+.body-3{
+    width: 80%;
+    height: 32px;
+    padding-left: 109px;
+}
+.left-body-3{
+    width: 41%;
+    height: 28px;
+    padding-left: 86px;
+    float: left;
+}
+.off-text{
+    font-size: .8rem;
+}
+.right-body-3{
+    float: left;
+    width: 199px;
+    height: 39px;
+    padding-left: 142px;
+}
+.text-download{
+    font-size: .8rem;
+    padding-left: 60px;
+}
+
+.image-model{
+    margin-top: 19px;
+    margin-left: 119px;
+    width: 80%;
+}
+.prize-tag{
+    height: 78px;
+    background-color: rgb(30, 28, 28);
+    width: 187px;
+    float: left;
+    position: absolute;
+    margin-left: 480px;
+    margin-top: -433px;
+    border-radius: 6px;
+}
+.price{
+    padding-left: 16px;
+    color: #fff;
+}
+.blaze-name{
+    padding-left: 15px;
+    color: #fff;
+}
+.kid-pic{
+    width: 80%;
+    margin-left: 119px;
+}
+.body-4-text{
+    height: 139px;
+    width: 381px;
+    float: left;
+    position: absolute;
+    margin-left: 463px;
+    margin-top: -200px;
+}
+.cool-text{
+    color: #fff;
+    font-size: 37px;
+    font-weight: bold;
+    padding-left: 38px;
+}
+.vibrant-text{
+    color: #fff;
+}
+.shop-now{
+    padding: 11px 11px;
+    border: none;
+    background-color: #fff;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    color: black;
+    border-radius: 1px;
+    cursor: pointer;
+    margin-left: 104px;
+}
+.kid-page-text{
+    width: 322px;
+    height: 124px;
+    float: left;
+    position: absolute;
+    margin-top: -185px;
+    margin-left: 497px;
+}
+.cartoon-text{
+    color: black;
+    font-size: 31px;
+    font-weight: bold;
+    padding-left: 27px;
+}
+.kid-vibrant-text{
+    padding-top: 15px;
+    font-size: 19px;
+}
+.shop-for-baby{
+    padding: 11px 15px;
+    border: none;
+    background-color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    color: #fff;
+    border-radius: 1px;
+    cursor: pointer;
+    margin-left: 31px;
+    margin-top: 20px;
+}
+.shop-for-kids{
+    padding: 11px 15px;
+    border: none;
+    background-color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    color: #fff;
+    border-radius: 1px;
+    cursor: pointer;
+    margin-left: 2px;
+    margin-top: 20px;
+}
+.trending{
+    width: 100%;
+    height: 35px;
+    padding-left: 129px;
+    padding-top: 9px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.pro-menu-1{
+    width: 100%;
+}
+
+.arrival-text{
+    width: 100%;
+    height: 38px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 140px;
+    padding-top: 11px;
+}
+.diff-options{
+    width: 60%;
+    height: 51px;
+    padding-left: 140px;
+    padding-top: 7px;
+}
+.logo-2-adj{
+    width: 75%;
+    padding-left: 152px;
+}
+.decor-img-1{
+    width: 75%;
+    height: 210px;
+    padding-top: 20px;
+    padding-left: 153px;
+    float: left;
+}
+.home-decor-cont{
+    width: 100%;
+    height: 246px;
+}
+.text-cont-1{
+    width: 100%;
+    height: 107px;
+    position: absolute;
+    float: left;
+}
+.comp-text{
+    padding-top: 91px;
+    padding-left: 521px;
+    font-size: 20px;
+    color: #fff;
+}
+.check-text{
+    padding-left: 441px;
+    padding-top: 5px;
+    color: #fff;
+    font-size: .9rem;
+    font-weight: bold;
+}
+.button-cont{
+    width: 50%;
+    height: 56px;
+    padding-left: 468px;
+    padding-top: 13px;
+}
+
+.mod-img-size{
+    width: 75%;
+    margin-left: 153px;
+}
+.recent-img-size{
+    width: 75%;
+    margin-left: 153px;
+}
+.cont-8-size{
+    width: 75%;
+    margin-left: 153px;
+}
+
+.footer-size{
+    width: 100%;
+    margin-top: 15px;
+}
+
+
